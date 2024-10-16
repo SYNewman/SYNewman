@@ -2,5 +2,5 @@
 - 👀 I’m interested in all things coding. I am a fast learner, interested in everything, from Web Development to Automation to Data Science to Cyber Security to Machine Learning & AI. 
 - 🌱 I’m currently learning Web development. I intend to gain skills to be a full stack developer, and currently I am learning to use Django. I am also learning Data Structures & Algorithms.
 - 💞️ I’m looking to collaborate on any projects, in any field, that anyone would like someone to colaborate with them on.
-- 📫 How to reach me through Github.
+- 📫 You can reach me through Github.
 - ⚡ Fun fact: I have been learning and practicing programming scince I was 12 years old.
